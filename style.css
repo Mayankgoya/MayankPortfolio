@@ -177,7 +177,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url(/img/DSC_0139.JPG);
+    background-image: url(DSC_0139.JPG);
     background-size: 100%;
     background-repeat: no-repeat;
     box-shadow: 0 0 2rem #fff , inset 0 0 1rem #fff;
